@@ -37,5 +37,10 @@ namespace NCKH_WinformScan
         {
 
         }
+
+        private void btnLogin_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

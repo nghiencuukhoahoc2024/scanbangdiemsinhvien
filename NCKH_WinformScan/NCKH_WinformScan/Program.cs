@@ -16,6 +16,7 @@ namespace NCKH_WinformScan
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
+            //Application.Run(new frmtcMH("DCC100220"));
             Application.Run(new frmTransformPoin());
         }
     }

@@ -1,0 +1,179 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\LTUD\\scanbangdiemsinhvien\\NCKH_WinformScan\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0AD5E5CE-6174-429F-8A40-6A0E082E6BBC}|NCKH_WinformScan\\NCKH_WinformScan.csproj|d:\\ltud\\scanbangdiemsinhvien\\nckh_winformscan\\nckh_winformscan\\frmfindinfomonhoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AD5E5CE-6174-429F-8A40-6A0E082E6BBC}|NCKH_WinformScan\\NCKH_WinformScan.csproj|solutionrelative:nckh_winformscan\\frmfindinfomonhoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AD5E5CE-6174-429F-8A40-6A0E082E6BBC}|NCKH_WinformScan\\NCKH_WinformScan.csproj|D:\\LTUD\\scanbangdiemsinhvien\\NCKH_WinformScan\\nckh_winformscan\\frmtcmh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0AD5E5CE-6174-429F-8A40-6A0E082E6BBC}|NCKH_WinformScan\\NCKH_WinformScan.csproj|solutionrelative:nckh_winformscan\\frmtcmh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AD5E5CE-6174-429F-8A40-6A0E082E6BBC}|NCKH_WinformScan\\NCKH_WinformScan.csproj|D:\\LTUD\\scanbangdiemsinhvien\\NCKH_WinformScan\\nckh_winformscan\\frmtcmh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AD5E5CE-6174-429F-8A40-6A0E082E6BBC}|NCKH_WinformScan\\NCKH_WinformScan.csproj|solutionrelative:nckh_winformscan\\frmtcmh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AD5E5CE-6174-429F-8A40-6A0E082E6BBC}|NCKH_WinformScan\\NCKH_WinformScan.csproj|D:\\LTUD\\scanbangdiemsinhvien\\NCKH_WinformScan\\nckh_winformscan\\frmfindinfomonhoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0AD5E5CE-6174-429F-8A40-6A0E082E6BBC}|NCKH_WinformScan\\NCKH_WinformScan.csproj|solutionrelative:nckh_winformscan\\frmfindinfomonhoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AD5E5CE-6174-429F-8A40-6A0E082E6BBC}|NCKH_WinformScan\\NCKH_WinformScan.csproj|D:\\LTUD\\scanbangdiemsinhvien\\NCKH_WinformScan\\nckh_winformscan\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AD5E5CE-6174-429F-8A40-6A0E082E6BBC}|NCKH_WinformScan\\NCKH_WinformScan.csproj|solutionrelative:nckh_winformscan\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AD5E5CE-6174-429F-8A40-6A0E082E6BBC}|NCKH_WinformScan\\NCKH_WinformScan.csproj|D:\\LTUD\\scanbangdiemsinhvien\\NCKH_WinformScan\\nckh_winformscan\\dbconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AD5E5CE-6174-429F-8A40-6A0E082E6BBC}|NCKH_WinformScan\\NCKH_WinformScan.csproj|solutionrelative:nckh_winformscan\\dbconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AD5E5CE-6174-429F-8A40-6A0E082E6BBC}|NCKH_WinformScan\\NCKH_WinformScan.csproj|D:\\LTUD\\scanbangdiemsinhvien\\NCKH_WinformScan\\nckh_winformscan\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0AD5E5CE-6174-429F-8A40-6A0E082E6BBC}|NCKH_WinformScan\\NCKH_WinformScan.csproj|solutionrelative:nckh_winformscan\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AD5E5CE-6174-429F-8A40-6A0E082E6BBC}|NCKH_WinformScan\\NCKH_WinformScan.csproj|D:\\LTUD\\scanbangdiemsinhvien\\NCKH_WinformScan\\nckh_winformscan\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AD5E5CE-6174-429F-8A40-6A0E082E6BBC}|NCKH_WinformScan\\NCKH_WinformScan.csproj|solutionrelative:nckh_winformscan\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmtcMH.cs [Design]",
+              "DocumentMoniker": "D:\\LTUD\\scanbangdiemsinhvien\\NCKH_WinformScan\\NCKH_WinformScan\\frmtcMH.cs",
+              "RelativeDocumentMoniker": "NCKH_WinformScan\\frmtcMH.cs",
+              "ToolTip": "D:\\LTUD\\scanbangdiemsinhvien\\NCKH_WinformScan\\NCKH_WinformScan\\frmtcMH.cs [Design]",
+              "RelativeToolTip": "NCKH_WinformScan\\frmtcMH.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T15:40:59.784Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\LTUD\\scanbangdiemsinhvien\\NCKH_WinformScan\\NCKH_WinformScan\\Program.cs",
+              "RelativeDocumentMoniker": "NCKH_WinformScan\\Program.cs",
+              "ToolTip": "D:\\LTUD\\scanbangdiemsinhvien\\NCKH_WinformScan\\NCKH_WinformScan\\Program.cs",
+              "RelativeToolTip": "NCKH_WinformScan\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABMAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T16:52:21.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmFindInfoMonHoc.cs",
+              "DocumentMoniker": "D:\\LTUD\\scanbangdiemsinhvien\\NCKH_WinformScan\\NCKH_WinformScan\\frmFindInfoMonHoc.cs",
+              "RelativeDocumentMoniker": "NCKH_WinformScan\\frmFindInfoMonHoc.cs",
+              "ToolTip": "D:\\LTUD\\scanbangdiemsinhvien\\NCKH_WinformScan\\NCKH_WinformScan\\frmFindInfoMonHoc.cs",
+              "RelativeToolTip": "NCKH_WinformScan\\frmFindInfoMonHoc.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwB8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T03:53:47.899Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmtcMH.cs",
+              "DocumentMoniker": "D:\\LTUD\\scanbangdiemsinhvien\\NCKH_WinformScan\\NCKH_WinformScan\\frmtcMH.cs",
+              "RelativeDocumentMoniker": "NCKH_WinformScan\\frmtcMH.cs",
+              "ToolTip": "D:\\LTUD\\scanbangdiemsinhvien\\NCKH_WinformScan\\NCKH_WinformScan\\frmtcMH.cs",
+              "RelativeToolTip": "NCKH_WinformScan\\frmtcMH.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAqwBQAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T15:41:02.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmFindInfoMonHoc.cs [Design]",
+              "DocumentMoniker": "D:\\LTUD\\scanbangdiemsinhvien\\NCKH_WinformScan\\NCKH_WinformScan\\frmFindInfoMonHoc.cs",
+              "RelativeDocumentMoniker": "NCKH_WinformScan\\frmFindInfoMonHoc.cs",
+              "ToolTip": "D:\\LTUD\\scanbangdiemsinhvien\\NCKH_WinformScan\\NCKH_WinformScan\\frmFindInfoMonHoc.cs [Design]",
+              "RelativeToolTip": "NCKH_WinformScan\\frmFindInfoMonHoc.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T16:49:44.529Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "dbConnection.cs",
+              "DocumentMoniker": "D:\\LTUD\\scanbangdiemsinhvien\\NCKH_WinformScan\\NCKH_WinformScan\\dbConnection.cs",
+              "RelativeDocumentMoniker": "NCKH_WinformScan\\dbConnection.cs",
+              "ToolTip": "D:\\LTUD\\scanbangdiemsinhvien\\NCKH_WinformScan\\NCKH_WinformScan\\dbConnection.cs",
+              "RelativeToolTip": "NCKH_WinformScan\\dbConnection.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAAAswD4AAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T04:02:49.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "frmLogin.cs [Design]",
+              "DocumentMoniker": "D:\\LTUD\\scanbangdiemsinhvien\\NCKH_WinformScan\\NCKH_WinformScan\\frmLogin.cs",
+              "RelativeDocumentMoniker": "NCKH_WinformScan\\frmLogin.cs",
+              "ToolTip": "D:\\LTUD\\scanbangdiemsinhvien\\NCKH_WinformScan\\NCKH_WinformScan\\frmLogin.cs [Design]",
+              "RelativeToolTip": "NCKH_WinformScan\\frmLogin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T16:28:30.768Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "frmLogin.cs",
+              "DocumentMoniker": "D:\\LTUD\\scanbangdiemsinhvien\\NCKH_WinformScan\\NCKH_WinformScan\\frmLogin.cs",
+              "RelativeDocumentMoniker": "NCKH_WinformScan\\frmLogin.cs",
+              "ToolTip": "D:\\LTUD\\scanbangdiemsinhvien\\NCKH_WinformScan\\NCKH_WinformScan\\frmLogin.cs",
+              "RelativeToolTip": "NCKH_WinformScan\\frmLogin.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAIAwwCoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T16:28:41.17Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1033,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
